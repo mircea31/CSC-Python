@@ -16,5 +16,4 @@ zi_Craciun = Calendar(zi, luna, an)
 
 zi_Craciun.Next_day()
 
-# zi_Craciun.next_day(zi_Craciun)
 
